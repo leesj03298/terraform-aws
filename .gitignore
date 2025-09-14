@@ -1,0 +1,3 @@
+darwin_arm64
+terraform.tfstate
+.terraform.lock.hcl
